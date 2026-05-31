@@ -17,7 +17,7 @@ An advanced transcription and summarization utility suite tailored for Serbian a
 
 2. **Install Python Dependencies**:
    ```bash
-   pip install openai-whisper google-generativeai openai tqdm
+   pip install openai-whisper google-generativeai openai tqdm yt-dlp
    ```
 
 3. **FFmpeg**: Required for audio processing. Install on Windows via Winget:
