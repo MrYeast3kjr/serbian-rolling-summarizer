@@ -1,0 +1,26 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environments / credentials
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large media binaries
+*.mp4
+*.mp3
+*.wav
+*.zip
+*.tar.gz
+*.tgz
+
+# Output directories/files
+error.log
+*.srt
+*.txt
+*.md
+!README.md
